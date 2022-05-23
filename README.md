@@ -1,6 +1,6 @@
 # Formulário HTML - Disciplina: Padrões Web
 Trabalho da disciplina sobre formulário HTML.
-Equipe de desenvolvimento:
+## Equipe de desenvolvimento:
 - Ana Constância
 - Alexandre
 - Diogo
